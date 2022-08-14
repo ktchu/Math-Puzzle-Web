@@ -7,12 +7,8 @@
         "id": "b0a97f0e1385bef5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-08-13.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-08-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-08-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-08-13.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,41 +120,14 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "aeb7dd5f04653cf5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "207caa3c22940255",
-        "type": "window",
-        "children": [
-          {
-            "id": "ec78e0159301c7bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "direction": "vertical",
-        "x": 375,
-        "y": 203,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "b0a97f0e1385bef5",
   "lastOpenFiles": [
+    "2022-07-17.md",
     "2022-08-13-Hints.md",
     "2022-08-13.md",
     "2022-07-20.md",
     "2022-07-19.md",
     "2022-07-17-Hints.md",
-    "2022-07-17.md",
     "2022-07-20-Hints.md",
     "2022-07.md",
     "2022-07-Hints.md",

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "4a7491dfdda14bcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0a97f0e1385bef5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-08-13.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5b673dd6eef7825",
+    "type": "split",
+    "children": [
+      {
+        "id": "434fc5bebe673bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3c7769b8a01e998",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba38a7742d262199",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8217a3708f7ec197",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "1f61ce92f8aae068",
+    "type": "split",
+    "children": [
+      {
+        "id": "af396fa5e4956e83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49733199c20c67fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-08-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4559f66cf67cb577",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-08-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd46cea3d5faee75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e893c000815e7a16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-08-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "floating": {
+    "id": "aeb7dd5f04653cf5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "207caa3c22940255",
+        "type": "window",
+        "children": [
+          {
+            "id": "ec78e0159301c7bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 375,
+        "y": 203,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b0a97f0e1385bef5",
+  "lastOpenFiles": [
+    "2022-08-13-Hints.md",
+    "2022-08-13.md",
+    "2022-07-20.md",
+    "2022-07-19.md",
+    "2022-07-17-Hints.md",
+    "2022-07-17.md",
+    "2022-07-20-Hints.md",
+    "2022-07.md",
+    "2022-07-Hints.md",
+    "test.md"
+  ]
+}

@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "math-puzzle-web"
+version = "0.0.0"
+description = ""
+license = "Apache-2.0"
+authors = ["Kevin Chu <kevin@velexi.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+shortuuid = "^1.0"
+typer = "^0,>=0.6"
+
+[tool.poetry.dev-dependencies]
+# TODO: change section name to [tool.poetry.group.dev.dependencies]
+#       after poetry 1.2.0 is released.
+coverage = "^6.4"
+flake8 = "^5.0"
+pylint = "^2.14"
+pytest = "^7.1"
+pytest-cov = "^3.0"
+pytest-flake8 = "^1.1"
+pytest-pylint = "^0,>=0.18"
+pytest-xdist = "^2.5"
+radon = "^5.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

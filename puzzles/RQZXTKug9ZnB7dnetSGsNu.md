@@ -1,6 +1,6 @@
 ---
 id: RQZXTKug9ZnB7dnetSGsNu
-title: Circular Sums with Imagination
+title: Circular Sums from Imagination
 tags: trigonometry, complex-numbers
 upstream:
   - EvHnJABhzHU5aG3xn3cL5p
@@ -8,7 +8,7 @@ upstream:
 
 --------------------------------------------------------------------------------------------
 
-## Circular Sums with Imagination
+## Circular Sums from Imagination
 
 Simplify the following "circular" sums to expressions involving at most two angles
 (e.g., $\frac{\pi}{7}$ and $\frac{2 \pi}{7}$).

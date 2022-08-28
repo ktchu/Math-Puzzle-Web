@@ -12,7 +12,7 @@ Let point $D$ lies on side $BC$ of triangle.
 
 ![Triangle](figures/Z9ziMdEQ58WhEHqFxiQJ9g.png)
 
-Prove that
+Show that
 
 $$
 \frac{1}{2} (AB + AC) - \frac{1}{2} BC

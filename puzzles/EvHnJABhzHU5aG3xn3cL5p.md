@@ -56,7 +56,7 @@ B. If $m$ and $n$ are positive integers, find expression involving at most two
    $$
 
 
-[Hints](simple-circular-sums-hints.md)
+[Hints](EvHnJABhzHU5aG3xn3cL5p-hints.md)
 
 --------------------------------------------------------------------------------------------
 

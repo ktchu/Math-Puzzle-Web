@@ -4,7 +4,7 @@ tags: trigonometry, complex numbers
 
 --------------------------------------------------------------------------------------------
 
-## Simple "Circular" Sums
+## "Circular" Sums
 
 Simplify the following "circular" sums to an expression involving at most two trigonometric
 functions (e.g., $\cos \frac{\pi}{7}$ and $\sin \frac{2 \pi}{7}$).

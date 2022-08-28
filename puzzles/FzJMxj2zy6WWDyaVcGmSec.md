@@ -1,6 +1,6 @@
 ---
 id: FzJMxj2zy6WWDyaVcGmSec
-title: Pascal's Triangle
+title: Powers of (x+1) and Pascal's Triangle
 tags: algebra
 ---
 

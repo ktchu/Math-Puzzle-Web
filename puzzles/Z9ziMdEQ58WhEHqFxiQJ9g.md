@@ -8,7 +8,7 @@ tags: geometry, inequalities, triangle-inequality
 
 ## Triangle Inequalities - On the Edge
 
-Let point $D$ lies on side $BC$ of triangle.
+Let point $D$ lies on side $BC$ of triangle $\triangle ABC$.
 
 ![Triangle](figures/Z9ziMdEQ58WhEHqFxiQJ9g.png)
 

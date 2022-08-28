@@ -1,12 +1,12 @@
 ---
 id: Z9ziMdEQ58WhEHqFxiQJ9g
-title: Triangle Inequalities - Sitting on Edge [Solutions]
+title: Triangle Inequalities - On the Edge [Solutions]
 tags: solutions
 ---
 
 --------------------------------------------------------------------------------------------
 
-## Triangle Inequalities - Sitting on Edge [Solutions]
+## Triangle Inequalities - On the Edge [Solutions]
 
 For triangle $ABD$, the triangle inequality requires that
 

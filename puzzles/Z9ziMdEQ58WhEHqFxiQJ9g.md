@@ -1,12 +1,12 @@
 ---
 id: Z9ziMdEQ58WhEHqFxiQJ9g
-title: Triangle Inequalities - Sitting on Edge
+title: Triangle Inequalities - On the Edge
 tags: geometry, inequalities, triangle-inequality
 ---
 
 --------------------------------------------------------------------------------------------
 
-## Triangle Inequalities - Sitting on Edge
+## Triangle Inequalities - On the Edge
 
 Let point $D$ lies on side $BC$ of triangle.
 

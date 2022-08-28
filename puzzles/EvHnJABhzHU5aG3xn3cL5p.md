@@ -1,7 +1,7 @@
 ---
 id: EvHnJABhzHU5aG3xn3cL5p
 title: Balanced Circular Sums
-tags: trigonometry, complex numbers
+tags: trigonometry
 ---
 
 --------------------------------------------------------------------------------------------

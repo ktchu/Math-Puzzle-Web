@@ -8,7 +8,7 @@ tags: trigonometry
 
 ## Balanced Circular Sums
 
-Simplify the following "circular" sums to an expression involving at most one trigonometric
+Simplify the following "circular" sums to expressions involving at most one trigonometric
 function with argument less than $\frac{\pi}{2}$ (e.g., $\cos \frac{3 \pi}{7}$ or
 $\sin \frac{\pi}{7}$).
 

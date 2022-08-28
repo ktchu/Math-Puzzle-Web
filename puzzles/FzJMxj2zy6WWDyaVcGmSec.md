@@ -1,4 +1,6 @@
 ---
+id: FzJMxj2zy6WWDyaVcGmSec
+title: Pascal's Triangle
 tags: algebra
 ---
 
@@ -23,5 +25,5 @@ computing $(x+1)^5$.
 
 --------------------------------------------------------------------------------------------
 
-* _Puzzle ID_: 2022-07-19
+* _Puzzle ID_: FzJMxj2zy6WWDyaVcGmSec
 * _Puzzle Version_: 2022-07-19

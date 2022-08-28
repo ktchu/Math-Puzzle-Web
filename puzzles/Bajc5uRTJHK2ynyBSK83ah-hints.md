@@ -1,4 +1,6 @@
 ---
+id: Bajc5uRTJHK2ynyBSK83ah
+title: Squaring Two-Digit Numbers in Your Head (Hints)
 tags: hints
 ---
 

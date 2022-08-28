@@ -1,6 +1,9 @@
 ---
+id: DXxfq83R52UnNqWHytvEqA
+title: Friends of (x + 1/x)
 tags: algebra
-upstream: 2022-07-19
+upstream:
+  - FzJMxj2zy6WWDyaVcGmSec
 ---
 
 --------------------------------------------------------------------------------------------
@@ -18,10 +21,10 @@ calculate the following quantities:
 
 * $x^5 + \frac{1}{x^5}$
 
-[Hints](2022-07-17-Hints.md)
+[Hints](DXxfq83R52UnNqWHytvEqA-hints.md)
 
 --------------------------------------------------------------------------------------------
 
-* _Puzzle ID_: 2022-07-17
+* _Puzzle ID_: DXxfq83R52UnNqWHytvEqA
 * _Puzzle Version_: 2022-07-17
-* _Upstream Puzzles_: [[2022-07-19]]
+* _Upstream Puzzles_: [[FzJMxj2zy6WWDyaVcGmSec]]

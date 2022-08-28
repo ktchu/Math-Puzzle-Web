@@ -1,4 +1,6 @@
 ---
+id: WrZaptZGP5G4boRw2cWy6n
+title: Babylonian Multiplication
 tags: algebra, geometry
 ---
 
@@ -32,9 +34,9 @@ Draw a diagram that shows why this formula works.
 __Bonus__. Show the same results using algebraic manipulations (instead of pictures).
 
 
-[Hints](2022-07-20-Hints.md)
+[Hints](WrZaptZGP5G4boRw2cWy6n-hints.md)
 
 --------------------------------------------------------------------------------------------
 
-* _Puzzle ID_: 2022-07-20
+* _Puzzle ID_: WrZaptZGP5G4boRw2cWy6n
 * _Puzzle Version_: 2022-07-20

@@ -1,4 +1,6 @@
 ---
+id: WrZaptZGP5G4boRw2cWy6n
+title: Babylonian Multiplication (Hints)
 tags: hints
 ---
 

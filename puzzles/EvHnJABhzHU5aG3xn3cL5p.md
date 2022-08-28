@@ -1,4 +1,6 @@
 ---
+id: EvHnJABhzHU5aG3xn3cL5p
+title: Circular Sums
 tags: trigonometry, complex numbers
 ---
 

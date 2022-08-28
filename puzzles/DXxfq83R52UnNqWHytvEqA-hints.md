@@ -1,4 +1,6 @@
 ---
+id: DXxfq83R52UnNqWHytvEqA
+title: Friends of (x + 1/x) (Hints)
 tags: hints
 ---
 

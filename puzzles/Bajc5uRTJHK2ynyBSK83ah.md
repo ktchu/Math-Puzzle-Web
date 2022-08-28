@@ -1,4 +1,6 @@
 ---
+id: Bajc5uRTJHK2ynyBSK83ah
+title: Squaring Two-Digit Numbers in Your Head
 tags: algebra, geometry, mental-math
 ---
 
@@ -54,9 +56,9 @@ works.
 
 __Bonus__: Does this formula work when squaring numbers with more than two digits?
 
-[Hints](2022-08-13-Hints.md)
+[Hints](Bajc5uRTJHK2ynyBSK83ah-hints.md)
 
 --------------------------------------------------------------------------------------------
 
-* _Puzzle ID_: 2022-08-13
+* _Puzzle ID_: Bajc5uRTJHK2ynyBSK83ah
 * _Puzzle Version_: 2022-08-13

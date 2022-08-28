@@ -4,6 +4,8 @@ title: Squaring Two-Digit Numbers in Your Head [Hints]
 tags: hints
 ---
 
+--------------------------------------------------------------------------------------------
+
 ## Squaring Two-Digit Numbers in Your Head [Hints]
 
 1. Break the square with side $x$ into two squares and two rectangles by cutting each of
@@ -11,3 +13,8 @@ tags: hints
    smaller of $a$ and $b$.
 
 2. Move the pieces around to form a rectangle with sides $a$ and $b$.
+
+--------------------------------------------------------------------------------------------
+
+* _Puzzle ID_: Bajc5uRTJHK2ynyBSK83ah
+* _Hints Version_: 2022-08-13

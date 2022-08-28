@@ -38,4 +38,4 @@ $AB \le AD + BD$ and $AC \le AD + CD$.
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: Z9ziMdEQ58WhEHqFxiQJ9g
-* _Puzzle Version_: 2022-08-28
+* _Solutions Version_: 2022-08-28

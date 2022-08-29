@@ -1,12 +1,13 @@
 ---
 id: j8xxXqeFH78pKStzUvwvMD
-title: Triangle Inequalities - Hanging Out Inside
+title: Triangle Inequalities - In the Zone
 tags: geometry, inequalities, triangle-inequality
+upstream: Z9ziMdEQ58WhEHqFxiQJ9g
 ---
 
 --------------------------------------------------------------------------------------------
 
-## Triangle Inequalities - Hanging Out Inside
+## Triangle Inequalities - In the Zone
 
 Let point $P$ lie in the interior of $\triangle ABC$.
 
@@ -24,4 +25,5 @@ $$
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: j8xxXqeFH78pKStzUvwvMD
-* _Puzzle Version_: 2022-08-28
+* _Puzzle Version_: 2022-08-29
+* _Upstream Puzzles_: [[Z9ziMdEQ58WhEHqFxiQJ9g]]

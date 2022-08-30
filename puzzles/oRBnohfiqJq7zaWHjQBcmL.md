@@ -26,7 +26,7 @@ $$
 $$
 
    Recall that $n!$ (read as $n$ _factorial_) is equal to
-   $1 \times 2 \times 3 \times \cdot \times n$.
+   $1 \times 2 \times 3 \times \cdots \times n$.
 
 4.
 $$

@@ -1,7 +1,7 @@
 ---
 id: F52CBWrGLUePhyjEgvgYbd
 title: Telescoping Series
-tags: telescoping-series
+tags: technique, telescoping-series
 ---
 
 --------------------------------------------------------------------------------------------

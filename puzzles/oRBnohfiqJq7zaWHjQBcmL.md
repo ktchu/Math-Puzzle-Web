@@ -1,7 +1,7 @@
 ---
 id: oRBnohfiqJq7zaWHjQBcmL
 title: Collapsing Sums
-tags: algebra, telescoping-series
+tags: telescoping-series
 ---
 
 --------------------------------------------------------------------------------------------

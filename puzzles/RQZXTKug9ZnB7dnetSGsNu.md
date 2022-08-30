@@ -1,7 +1,7 @@
 ---
 id: RQZXTKug9ZnB7dnetSGsNu
 title: Circular Sums from Imagination
-tags: trigonometry, complex-numbers
+tags: trigonometry, complex-numbers, geometric-series
 upstream:
   - EvHnJABhzHU5aG3xn3cL5p
 ---

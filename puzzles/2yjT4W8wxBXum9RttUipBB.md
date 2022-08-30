@@ -1,7 +1,7 @@
 ---
 id: 2yjT4W8wxBXum9RttUipBB
 title: Matryoshka Quadratics
-tags: algebra
+tags: algebra, quadratic-equation
 ---
 
 --------------------------------------------------------------------------------------------

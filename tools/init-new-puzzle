@@ -15,7 +15,7 @@
 #   limitations under the License.
 #
 """
-Script for creating new puzzle templates.
+Script for generating empty puzzle files.
 """
 
 # --- Imports
@@ -41,7 +41,7 @@ _TEMPLATE_FILES = ["template-puzzle.md",
 
 def main() -> None:
     """
-    Create new puzzle templates.
+    Generate empty puzzle files.
     """
     # --- Preparations
 
@@ -51,7 +51,7 @@ def main() -> None:
         'date': datetime.date.today().isoformat(),
         }
 
-    # --- Generate new puzzle templates
+    # --- Generate empty puzzle files
 
     for filename in _TEMPLATE_FILES:
         template_path = os.path.join(_TEMPLATE_DIR, filename)
@@ -65,7 +65,7 @@ def main() -> None:
 
     # --- Clean up
 
-    # Display puzzle id (to facilitate identifying the new puzzle files)
+    # Display puzzle id
     typer.echo(f"Puzzle ID: {substitutions['puzzle_id']}")
 
 

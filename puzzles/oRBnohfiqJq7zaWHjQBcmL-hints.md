@@ -1,7 +1,7 @@
 ---
 id: oRBnohfiqJq7zaWHjQBcmL
 title: Collapsing Sums [Hints]
-tags: solutions
+tags: hints
 ---
 
 --------------------------------------------------------------------------------------------

@@ -10,7 +10,7 @@ tags: calculus
 
 No matter many powers of the logarithm function $\log(x)$ we take, in a race to $\infty$,
 it will always be overtaken by the simple linear function $f(x) = x$. Show why this is this
-so?
+so.
 
 [Hints](gR7fnpEVreJT2yNUuZ4GSV-hints.md)
 [Solutions](gR7fnpEVreJT2yNUuZ4GSV-solutions.md)

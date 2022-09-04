@@ -11,7 +11,7 @@ tags: calculus, complex-numbers
 Use ideas from calculus to derive _Euler's Formula_:
 
 $$
-e^{ix} = \cos x + i \sin x
+e^{ix} = \cos x + i \sin x.
 $$
 
 [Hints](dPYHfboUYa4QgM3AenhRd8-hints.md)

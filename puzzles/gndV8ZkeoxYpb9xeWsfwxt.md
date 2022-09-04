@@ -41,6 +41,11 @@ __Bonus__
    equation that relates the change in the potential energy to the change a simple function
    of the speed (i.e., $|v|$) of the object _without solving the kinematics equations_.
 
+### Putting it Together
+
+3. If we drop a ball at rest from a height $H$, what is its velocity $v$ as it hits the
+   ground?
+
 [Hints](gndV8ZkeoxYpb9xeWsfwxt-hints.md)
 [Solutions](gndV8ZkeoxYpb9xeWsfwxt-solutions.md)
 

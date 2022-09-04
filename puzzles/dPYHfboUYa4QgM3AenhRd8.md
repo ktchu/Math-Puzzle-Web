@@ -8,11 +8,18 @@ tags: calculus, complex-numbers
 
 ## Euler's Formula - "The Most Remarkable Formula in Mathematics"
 
-Use ideas from calculus to derive _Euler's Formula_:
+_Euler's formula_
 
 $$
-e^{ix} = \cos x + i \sin x.
+e^{ix} = \cos x + i \sin x
 $$
+
+is an incredibly useful tool in mathematics, science, engineering, and beyond! For
+instance, it is handy for deriving trigonometric identities, rotating objects in
+space, understanding electrical circuits, explaining the behavior of light, and analyzing
+sound patterns.
+
+Use ideas from calculus to derive _Euler's formula_.
 
 [Hints](dPYHfboUYa4QgM3AenhRd8-hints.md)
 [Solutions](dPYHfboUYa4QgM3AenhRd8-solutions.md)

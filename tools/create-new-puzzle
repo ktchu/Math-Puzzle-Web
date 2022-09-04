@@ -1,0 +1,70 @@
+#!/usr/bin/env python
+#
+#   Copyright 2022 Kevin T. Chu
+#
+#   Licensed under the Apache License, Version 2.0 (the "License");
+#   you may not use this file except in compliance with the License.
+#   You may obtain a copy of the License at
+#
+#       http://www.apache.org/licenses/LICENSE-2.0
+#
+#   Unless required by applicable law or agreed to in writing, software
+#   distributed under the License is distributed on an "AS IS" BASIS,
+#   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#   See the License for the specific language governing permissions and
+#   limitations under the License.
+#
+"""
+Script for creating new puzzle templates.
+"""
+
+# --- Imports
+
+# Standard library
+import datetime
+import os
+
+# External packages
+import shortuuid
+import typer
+
+
+# --- Constants
+
+_TEMPLATE_DIR = os.path.join(os.path.dirname(__file__), "templates")
+_TEMPLATE_FILES = ["template-puzzle.md",
+                   "template-hints.md",
+                   "template-solutions.md"]
+
+
+# --- Main program
+
+def main() -> None:
+    """
+    Create new puzzle templates.
+    """
+    # --- Preparations
+
+    # Generate substitution data
+    substitutions = {
+        'puzzle_id': shortuuid.uuid(),
+        'date': datetime.date.today().isoformat(),
+        }
+
+    # --- Create new puzzle templates
+
+    for filename in _TEMPLATE_FILES:
+        template_path = os.path.join(_TEMPLATE_DIR, filename)
+        with open(template_path, 'r') as file_:
+            template_contents = file_.read()
+            output_contents = template_contents.format(**substitutions)
+
+        output_path = filename.replace("template", substitutions['puzzle_id'])
+        with open(output_path, 'w') as file_:
+            file_.write(output_contents)
+
+
+# --- Run app
+
+if __name__ == "__main__":
+    typer.run(main)

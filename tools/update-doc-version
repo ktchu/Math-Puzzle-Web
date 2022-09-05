@@ -44,9 +44,8 @@ def main(path: Path) -> None:
 
     # --- Update document version
 
-    # Generate document version
-    timestamp = datetime.fromtimestamp(os.path.getmtime(path))
-    updated_version = timestamp.replace(microsecond=0).isoformat()
+    # Generate updated document version
+    updated_version = datetime.now().replace(microsecond=0).isoformat()
 
     # Load document
     with open(path, 'r') as file_:
@@ -55,8 +54,8 @@ def main(path: Path) -> None:
         for line in lines:
             # Update version lines
             if "Version_: " in line or "version: " in line:
-                parts = line.split(': ')
-                line = ': '.join([*parts[0:-1], updated_version])
+                parts = line.split(':')
+                line = f"{parts[0]}: {updated_version}\n"
 
             # Append line to updated contents
             updated_contents.append(line)

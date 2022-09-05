@@ -1,8 +1,8 @@
 ---
 id: {puzzle_id}
 title: {{{{ title }}}} [Solutions]
-tags: solutions
 version: {version}
+tags: solutions
 ---
 
 --------------------------------------------------------------------------------------------

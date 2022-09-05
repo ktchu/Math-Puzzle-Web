@@ -1,6 +1,7 @@
 ---
 id: bbboYHCZmv82vaSWAdBm7t
 title: Diagonals of Imperfect Rectangles [Solutions]
+version: 2022-09-04
 tags: solutions
 ---
 

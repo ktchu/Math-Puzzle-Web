@@ -1,6 +1,7 @@
 ---
 id: RQZXTKug9ZnB7dnetSGsNu
 title: Circular Sums from Imagination [Hints]
+version: 2022-08-28
 tags: hints
 ---
 

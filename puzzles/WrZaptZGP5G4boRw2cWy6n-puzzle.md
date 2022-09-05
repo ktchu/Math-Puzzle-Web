@@ -1,6 +1,7 @@
 ---
 id: WrZaptZGP5G4boRw2cWy6n
 title: Babylonian Multiplication
+version: 2022-07-20
 tags: algebra, geometry
 ---
 

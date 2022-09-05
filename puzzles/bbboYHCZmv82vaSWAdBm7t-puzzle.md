@@ -1,6 +1,7 @@
 ---
 id: bbboYHCZmv82vaSWAdBm7t
 title: Diagonals of Imperfect Rectangles
+version: 2022-09-04
 tags: geometry, inequalities
 ---
 

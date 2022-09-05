@@ -1,6 +1,7 @@
 ---
 id: Z9ziMdEQ58WhEHqFxiQJ9g
 title: Triangle Inequalities - On the Edge [Hints]
+version: 2022-08-28
 tags: hints
 ---
 

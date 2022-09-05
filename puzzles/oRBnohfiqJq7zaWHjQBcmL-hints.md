@@ -1,6 +1,7 @@
 ---
 id: oRBnohfiqJq7zaWHjQBcmL
 title: Collapsing Sums [Hints]
+version: 2022-08-30
 tags: hints
 ---
 

@@ -1,6 +1,7 @@
 ---
 id: Z9ziMdEQ58WhEHqFxiQJ9g
 title: Triangle Inequalities - On the Edge
+version: 2022-08-30
 tags: geometry, inequalities, triangle-inequality
 ---
 

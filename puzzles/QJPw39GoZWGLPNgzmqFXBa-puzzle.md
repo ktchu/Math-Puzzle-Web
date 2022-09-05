@@ -1,6 +1,7 @@
 ---
 id: QJPw39GoZWGLPNgzmqFXBa
 title: Area Wars - Squares vs. Rectangles
+version: 2022-09-04
 tags: geometry, algebra, calculus
 ---
 

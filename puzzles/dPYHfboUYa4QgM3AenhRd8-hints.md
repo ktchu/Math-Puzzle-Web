@@ -1,6 +1,7 @@
 ---
 id: dPYHfboUYa4QgM3AenhRd8
 title: Euler's Formula - The Most Remarkable Formula in Mathematics" [Hints]
+version: 2022-09-04
 tags: hints
 ---
 

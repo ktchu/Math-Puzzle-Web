@@ -1,6 +1,7 @@
 ---
 id: EvHnJABhzHU5aG3xn3cL5p
 title: Balanced Circular Sums
+version: 2022-08-28
 tags: trigonometry
 ---
 

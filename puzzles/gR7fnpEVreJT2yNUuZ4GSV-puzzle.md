@@ -1,6 +1,7 @@
 ---
 id: gR7fnpEVreJT2yNUuZ4GSV
 title: Logarithms Never Win the Race to Infinity
+version: 2022-09-04
 tags: calculus
 ---
 

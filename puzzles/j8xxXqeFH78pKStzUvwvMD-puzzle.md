@@ -1,6 +1,7 @@
 ---
 id: j8xxXqeFH78pKStzUvwvMD
 title: Triangle Inequalities - In the Zone
+version: 2022-08-30
 tags: geometry, inequalities, triangle-inequality
 upstream: Z9ziMdEQ58WhEHqFxiQJ9g
 ---

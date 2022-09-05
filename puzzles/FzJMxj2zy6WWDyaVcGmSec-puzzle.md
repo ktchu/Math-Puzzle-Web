@@ -1,6 +1,7 @@
 ---
 id: FzJMxj2zy6WWDyaVcGmSec
 title: Powers of (x+1) and Pascal's Triangle
+version: 2022-07-19
 tags: algebra
 ---
 

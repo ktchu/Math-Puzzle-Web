@@ -1,6 +1,7 @@
 ---
 id: 2yjT4W8wxBXum9RttUipBB
 title: Matryoshka Quadratics [Solutions]
+version: 2022-08-28
 tags: solutions
 ---
 

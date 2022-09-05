@@ -1,6 +1,7 @@
 ---
 id: QJPw39GoZWGLPNgzmqFXBa
 title: Area Wars - Squares vs. Rectangles [Solutions]
+version: 2022-09-04
 tags: solutions
 ---
 

@@ -1,6 +1,7 @@
 ---
 id: gndV8ZkeoxYpb9xeWsfwxt
 title: In Search of Energy
+version: 2022-09-04
 tags: calculus, physics
 ---
 

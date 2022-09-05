@@ -1,6 +1,7 @@
 ---
 id: DXxfq83R52UnNqWHytvEqA
 title: Friends of (x + 1/x)
+version: 2022-07-17
 tags: algebra
 upstream:
   - FzJMxj2zy6WWDyaVcGmSec

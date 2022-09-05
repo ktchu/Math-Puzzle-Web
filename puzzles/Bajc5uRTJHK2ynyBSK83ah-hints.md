@@ -1,6 +1,7 @@
 ---
 id: Bajc5uRTJHK2ynyBSK83ah
 title: Squaring Two-Digit Numbers in Your Head [Hints]
+version: 2022-08-13
 tags: hints
 ---
 

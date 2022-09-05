@@ -1,6 +1,7 @@
 ---
 id: dPYHfboUYa4QgM3AenhRd8
 title: Euler's Formula - The Most Remarkable Formula in Mathematics"
+version: 2022-09-04
 tags: calculus, complex-numbers
 ---
 

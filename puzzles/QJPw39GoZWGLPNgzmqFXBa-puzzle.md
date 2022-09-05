@@ -1,7 +1,7 @@
 ---
 id: QJPw39GoZWGLPNgzmqFXBa
 title: Area Wars - Squares vs. Rectangles
-version: 2022-09-04
+version: 2022-09-05T11:00:20
 tags: geometry, algebra, calculus
 ---
 
@@ -10,8 +10,7 @@ tags: geometry, algebra, calculus
 ## Area Wars - Squares vs. Rectangles
 
 It is well-known that if we are allowed to change the width and height of a rectangle but
-keep the perimeter $P$ fixed, then we make the area largest by making the rectangle a
-square.
+keep the perimeter fixed, then we make the area largest by making the rectangle a square.
 
 Show why this is true.
 
@@ -27,4 +26,4 @@ __Bonus__
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: QJPw39GoZWGLPNgzmqFXBa
-* _Puzzle Version_: 2022-09-04
+* _Puzzle Version_: 2022-09-05T11:00:20

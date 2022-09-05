@@ -48,7 +48,7 @@ def main() -> None:
     # Generate substitution data
     substitutions = {
         'puzzle_id': shortuuid.uuid(),
-        'date': datetime.date.today().isoformat(),
+        'date': datetime.datetime.now().replace(microsecond=0).isoformat(),
         }
 
     # --- Generate empty puzzle files

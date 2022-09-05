@@ -2,6 +2,7 @@
 id: {puzzle_id}
 title: {{{{ title }}}} [Solutions]
 tags: solutions
+version: {version}
 ---
 
 --------------------------------------------------------------------------------------------
@@ -11,4 +12,4 @@ tags: solutions
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: {puzzle_id}
-* _Solutions Version_: {date}
+* _Solutions Version_: {version}

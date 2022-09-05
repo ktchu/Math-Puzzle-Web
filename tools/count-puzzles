@@ -40,7 +40,7 @@ def main() -> None:
         os.path.basename(path)
         for path in glob.glob(os.path.join(puzzles_dirpath, "*.md"))]
 
-    puzzle_files = [file_ for file_ in markdown_files if "-" not in file_]
+    puzzle_files = [file_ for file_ in markdown_files if "-puzzle" in file_]
     typer.echo(len(puzzle_files))
 
 

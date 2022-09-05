@@ -15,7 +15,7 @@
 #   limitations under the License.
 #
 """
-Script for generating puzzle ID.
+Script for generating a puzzle ID.
 """
 
 # --- Imports
@@ -29,7 +29,7 @@ import typer
 
 def main() -> None:
     """
-    Generate puzzle ID.
+    Generate a puzzle ID.
     """
     typer.echo(shortuuid.uuid())
 

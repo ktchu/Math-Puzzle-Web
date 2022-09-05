@@ -1,0 +1,72 @@
+#!/usr/bin/env python
+#
+#   Copyright 2022 Kevin T. Chu
+#
+#   Licensed under the Apache License, Version 2.0 (the "License");
+#   you may not use this file except in compliance with the License.
+#   You may obtain a copy of the License at
+#
+#       http://www.apache.org/licenses/LICENSE-2.0
+#
+#   Unless required by applicable law or agreed to in writing, software
+#   distributed under the License is distributed on an "AS IS" BASIS,
+#   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#   See the License for the specific language governing permissions and
+#   limitations under the License.
+#
+"""
+Script for updating document version.
+"""
+
+# --- Imports
+
+# Standard library
+from datetime import datetime
+from pathlib import Path
+import os
+
+# External packages
+import typer
+
+
+# --- Main program
+
+def main(path: Path) -> None:
+    """
+    Update document version.
+    """
+    # --- Preparations
+
+    # Check path
+    if not os.path.isfile(path):
+        typer.echo(f"File '{path}' not found", err=True)
+        raise typer.Abort()
+
+    # --- Update document version
+
+    # Generate document version
+    timestamp = datetime.fromtimestamp(os.path.getmtime(path))
+    updated_version = timestamp.replace(microsecond=0).isoformat()
+
+    # Load document
+    with open(path, 'r') as file_:
+        lines = file_.readlines()
+        updated_contents = []
+        for line in lines:
+            # Update version lines
+            if "Version_: " in line or "version: " in line:
+                parts = line.split(': ')
+                line = ': '.join([*parts[0:-1], updated_version])
+
+            # Append line to updated contents
+            updated_contents.append(line)
+
+    # Write document with updated version
+    with open(path, 'w') as file_:
+        file_.writelines(updated_contents)
+
+
+# --- Run app
+
+if __name__ == "__main__":
+    typer.run(main)

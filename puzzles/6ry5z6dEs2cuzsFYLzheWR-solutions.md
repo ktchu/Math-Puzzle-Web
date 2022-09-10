@@ -1,13 +1,13 @@
 ---
 id: 6ry5z6dEs2cuzsFYLzheWR
-title: Simpler Inequalities - Quadratics FTW [Solutions]
+title: Simpler Inequalities - Polynomials FTW [Solutions]
 version: 2022-09-07T21:00:21
 tags: solutions
 ---
 
 --------------------------------------------------------------------------------------------
 
-## Simpler Inequalities - Quadratics FTW [Solutions]
+## Simpler Inequalities - Polynomials FTW [Solutions]
 
 --------------------------------------------------------------------------------------------
 

@@ -1,21 +1,22 @@
 ---
 id: 6ry5z6dEs2cuzsFYLzheWR
-title: Simpler Inequalities - Quadratics FTW [Hints]
+title: Simpler Inequalities - Polynomials FTW [Hints]
 version: 2022-09-07T21:00:21
 tags: hints
 ---
 
 --------------------------------------------------------------------------------------------
 
-## Simpler Inequalities - Quadratics FTW [Hints]
+## Simpler Inequalities - Polynomials FTW [Hints]
 
 ### Problem 2
 
-Consider the location of the roots of the polynomial
+Try thinking about the sign of the polynomial $p(x) = (1 - x^2) (1 + x^2)^2 - 1$ when $x$
+is near zero.
 
-$$
-(1 - x^2) (1 + x^2)^2 - 1
-$$
+### Problem 3
+
+What happens at the roots of a polynomial?
 
 --------------------------------------------------------------------------------------------
 

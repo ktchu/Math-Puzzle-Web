@@ -1,13 +1,13 @@
 ---
 id: 6ry5z6dEs2cuzsFYLzheWR
-title: Simpler Inequalities - Quadratics FTW
+title: Simpler Inequalities - Polynomials FTW
 version: 2022-09-07T21:00:21
 tags: algebra, inequalities, polynomials, roots-of-polynomials
 ---
 
 --------------------------------------------------------------------------------------------
 
-## Simpler Inequalities - Quadratics FTW
+## Simpler Inequalities - Polynomials FTW
 
 Inequalities are great for estimating the size of quantities of interest … but only if
 they are simple enough.
@@ -27,24 +27,34 @@ angle.
 
 ### How Long Does the Ladder Need to Be?
 
-1. Show that the shortest possible length for the ladder (if it just barely reaches the
-   corner of the building) is
+1. Show that if the ladder just barely reaches the corner of the building, then its length
+   is equal to
 
    $$
    L_{min} = \frac{h}{\sqrt{1 - x^2}}.
    $$
 
-2. For safety, we definitely want to buy a ladder with $L \ge L_{min}$. We don't need an
-   exact answer, so it's _good enough_ to calculate an estimate that is always bigger than
-   $L_{min}$ but _easier to calculate_ (for instance, it would be nice to not have to
-   calculate the square root … especially if we don't have a calculator handy).
+2. For safety reasons, we definitely want to buy a ladder with $L \ge L_{min}$, but we
+   don't need to know the exact value of $L_{min}$. It's _good enough_ to calculate an
+   estimate that is always bigger than $L_{min}$ but _easier to calculate_ (for instance,
+   if we don't have a calculator handy, multiplication and addition are less work than
+   square roots and division).
 
-   Show that we can use simpler formula $(1 + x^2)$ to estimate the shortest ladder to buy.
-   In other words, show that
+   Show that if $x$ is positive and close to zero (i.e., the ladder is close to vertical),
+   we can use simpler formula $(1 + x^2)$ to estimate the shortest ladder to buy. In other
+   words, show that
 
    $$
    \frac{1}{\sqrt{1 - x^2}} \le 1 + x^2.
    $$
+
+### Bonus
+
+3. Like most approximations, inequality in #2 is only true for certain values of $x$. For
+   example, when $x$ is close to one, the left-hand side of the inequality is very large
+   while the right-hand side approximately equal to $2$.
+
+   Find the largest value of $x$ the inequality is true for.
 
 [Hints](6ry5z6dEs2cuzsFYLzheWR-hints.md)
 [Solutions](6ry5z6dEs2cuzsFYLzheWR-solutions.md)

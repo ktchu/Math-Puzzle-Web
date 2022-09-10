@@ -1,6 +1,7 @@
 ---
 id: F52CBWrGLUePhyjEgvgYbd
 title: Telescoping Series
+version: 2022-09-10T15:08:14
 tags: technique, telescoping-series
 ---
 
@@ -75,4 +76,4 @@ which collapses to $1 - 1/100 = 99/100$.
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: F52CBWrGLUePhyjEgvgYbd
-* _Puzzle Version_: 2022-08-30
+* _Puzzle Version_: 2022-09-10T15:08:14

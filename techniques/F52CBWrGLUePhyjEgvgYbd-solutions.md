@@ -1,6 +1,7 @@
 ---
 id: F52CBWrGLUePhyjEgvgYbd
 title: Telescoping Series [Solutions]
+version: 2022-09-10T15:07:07
 tags: solutions
 ---
 
@@ -37,4 +38,4 @@ $$
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: F52CBWrGLUePhyjEgvgYbd
-* _Solutions Version_: 2022-08-30
+* _Solutions Version_: 2022-09-10T15:07:07

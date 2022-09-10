@@ -1,7 +1,7 @@
 ---
 id: 6ry5z6dEs2cuzsFYLzheWR
 title: Simpler Inequalities - Polynomials FTW
-version: 2022-09-10T11:59:57
+version: 2022-09-10T14:18:33
 tags: algebra, geometry, inequalities, polynomials, approximations
 ---
 
@@ -36,9 +36,9 @@ angle.
 
 2. For safety reasons, we definitely want to buy a ladder with $L \ge L_{min}$, but we
    don't need to know the exact value of $L_{min}$. It's _good enough_ to calculate an
-   estimate that is always bigger than $L_{min}$ but _easier to calculate_ (for instance,
-   if we don't have a calculator handy, multiplication and addition are less work than
-   square roots and division).
+   estimate that is always bigger than $L_{min}$ … and it's nice if the estimate is
+   _easier to calculate_ for those times when we don't have a calculator handy
+   (multiplication and addition are less work than square roots and division).
 
    Show that if $x$ is positive and close to zero (i.e., the ladder is close to vertical),
    we can use simpler formula $(1 + x^2)$ to estimate the shortest ladder to buy. In other
@@ -50,11 +50,11 @@ angle.
 
 ### Bonus
 
-3. Like most approximations, inequality in #2 is only true for certain values of $x$. For
-   example, when $x$ is close to one, the left-hand side of the inequality is very large
-   while the right-hand side approximately equal to $2$.
+3. Like most approximations, inequality in Problem #2 is only true for certain values of
+   $x$. For example, when $x$ is close to one, the left-hand side of the inequality is
+   very large while the right-hand side approximately equal to $2$.
 
-   Find the largest value of $x$ the inequality is true for.
+   Find the largest value of $x$ that the inequality is true for.
 
 [Hints](6ry5z6dEs2cuzsFYLzheWR-hints.md)
 [Solutions](6ry5z6dEs2cuzsFYLzheWR-solutions.md)
@@ -62,4 +62,4 @@ angle.
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: 6ry5z6dEs2cuzsFYLzheWR
-* _Puzzle Version_: 2022-09-10T11:59:57
+* _Puzzle Version_: 2022-09-10T14:18:33

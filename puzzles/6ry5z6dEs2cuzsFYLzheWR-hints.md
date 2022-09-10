@@ -1,7 +1,7 @@
 ---
 id: 6ry5z6dEs2cuzsFYLzheWR
 title: Simpler Inequalities - Polynomials FTW [Hints]
-version: 2022-09-07T21:00:21
+version: 2022-09-10T12:00:01
 tags: hints
 ---
 
@@ -21,4 +21,4 @@ What happens at the roots of a polynomial?
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: 6ry5z6dEs2cuzsFYLzheWR
-* _Hints Version_: 2022-09-07T21:00:21
+* _Hints Version_: 2022-09-10T12:00:01

@@ -1,8 +1,8 @@
 ---
 id: 6ry5z6dEs2cuzsFYLzheWR
 title: Simpler Inequalities - Polynomials FTW
-version: 2022-09-07T21:00:21
-tags: algebra, inequalities, polynomials, roots-of-polynomials
+version: 2022-09-10T11:59:57
+tags: algebra, geometry, inequalities, polynomials, approximations
 ---
 
 --------------------------------------------------------------------------------------------
@@ -62,4 +62,4 @@ angle.
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: 6ry5z6dEs2cuzsFYLzheWR
-* _Puzzle Version_: 2022-09-07T21:00:21
+* _Puzzle Version_: 2022-09-10T11:59:57

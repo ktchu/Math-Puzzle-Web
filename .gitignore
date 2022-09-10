@@ -2,3 +2,8 @@
 
 # direnv
 .direnv
+
+# --- Temporary files
+
+# MS Office
+~*.pptx

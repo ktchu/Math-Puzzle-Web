@@ -9,8 +9,12 @@ tags: {{{{ tags }}}}
 
 ## {{{{ title }}}}
 
-[Hints]({puzzle_id}-hints.md)
-[Solutions]({puzzle_id}-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints]({puzzle_id}-hints.md)
+* [Solutions]({puzzle_id}-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

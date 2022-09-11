@@ -1,13 +1,13 @@
 ---
 id: UZeo2oZpVHB988NvkP3eRa
-title: Using Matrices to Translate, Rotate and Reflect
+title: Using Matrices to Translate, Rotate, and Reflect
 version: 2022-09-11T16:57:45
 tags: linear-algebra, matrices
 ---
 
 --------------------------------------------------------------------------------------------
 
-## Using Matrices to Translate, Rotate and Reflect
+## Using Matrices to Translate, Rotate, and Reflect
 
 One situation where matrices are useful is computing where points in a plane move to under
 simple transformations - rotations, reflections, translations, and combinations of these.

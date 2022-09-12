@@ -2,7 +2,7 @@
 id: UZeo2oZpVHB988NvkP3eRa
 title: Using Matrices to Translate, Rotate, and Reflect
 version: 2022-09-11T16:57:45
-tags: linear-algebra, matrices
+tags: technique, linear-algebra, matrices
 ---
 
 --------------------------------------------------------------------------------------------

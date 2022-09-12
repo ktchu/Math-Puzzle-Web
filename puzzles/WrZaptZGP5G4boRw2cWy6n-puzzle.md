@@ -34,8 +34,12 @@ Draw a diagram that shows why this formula works.
 
 __Bonus__. Show the same results using algebraic manipulations (instead of pictures).
 
+--------------------------------------------------------------------------------------------
 
-[Hints](WrZaptZGP5G4boRw2cWy6n-hints.md)
+## Resources
+
+* [Hints](WrZaptZGP5G4boRw2cWy6n-hints.md)
+* [Solutions](WrZaptZGP5G4boRw2cWy6n-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

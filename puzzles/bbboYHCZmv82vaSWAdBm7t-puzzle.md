@@ -20,8 +20,12 @@ Show that it will always be this way: no matter how badly we draw a rectangle, i
 of opposite corners are right angles, then the diagonal between right angles will never be
 longer than the diagonal between the other pair of opposite corners.
 
-[Hints](bbboYHCZmv82vaSWAdBm7t-hints.md)
-[Solutions](bbboYHCZmv82vaSWAdBm7t-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](bbboYHCZmv82vaSWAdBm7t-hints.md)
+* [Solutions](bbboYHCZmv82vaSWAdBm7t-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

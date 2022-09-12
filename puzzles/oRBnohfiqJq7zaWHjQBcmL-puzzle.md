@@ -44,8 +44,12 @@ $$
   + \frac{1}{2^{99}}\left( 3 \sqrt{11} - 5 \right)
 $$
 
-[Hints](oRBnohfiqJq7zaWHjQBcmL-hints.md)
-[Solutions](oRBnohfiqJq7zaWHjQBcmL-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](oRBnohfiqJq7zaWHjQBcmL-hints.md)
+* [Solutions](oRBnohfiqJq7zaWHjQBcmL-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

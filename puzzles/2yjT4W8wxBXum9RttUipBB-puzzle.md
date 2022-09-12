@@ -18,11 +18,15 @@ xy - 2x - 2y &= -3
 \end{align}
 $$
 
-[Hints](2yjT4W8wxBXum9RttUipBB-hints.md)
-[Solutions](2yjT4W8wxBXum9RttUipBB-solutions.md)
-
 _Acknowledgement_. This puzzle was inspired by a problem from the 1973 New York State
 Mathematics League (NYSML) competition.
+
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](2yjT4W8wxBXum9RttUipBB-hints.md)
+* [Solutions](2yjT4W8wxBXum9RttUipBB-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

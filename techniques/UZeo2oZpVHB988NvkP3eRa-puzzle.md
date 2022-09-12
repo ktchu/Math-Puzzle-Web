@@ -335,6 +335,7 @@ because $\cos 180^\circ = -1$ and $\sin 180^\circ = 0$.
 
 ## Resources
 
+* [Hints](UZeo2oZpVHB988NvkP3eRa-hints.md)
 * [Solutions](UZeo2oZpVHB988NvkP3eRa-solutions.md)
 
 --------------------------------------------------------------------------------------------

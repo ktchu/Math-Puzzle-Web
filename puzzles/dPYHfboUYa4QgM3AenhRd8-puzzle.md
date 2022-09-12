@@ -22,11 +22,15 @@ sound patterns.
 
 Use ideas from calculus to derive _Euler's formula_.
 
-[Hints](dPYHfboUYa4QgM3AenhRd8-hints.md)
-[Solutions](dPYHfboUYa4QgM3AenhRd8-solutions.md)
-
 _Acknowledgement_. The quote "the most remarkable formula in mathematics" is attributed to
 the physicist Richard Feynman.
+
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](dPYHfboUYa4QgM3AenhRd8-hints.md)
+* [Solutions](dPYHfboUYa4QgM3AenhRd8-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

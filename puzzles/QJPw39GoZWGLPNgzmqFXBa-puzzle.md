@@ -20,8 +20,12 @@ __Bonus__
 
 * If you proved this result algebra and know calculus, prove it using calculus.
 
-[Hints](QJPw39GoZWGLPNgzmqFXBa-hints.md)
-[Solutions](QJPw39GoZWGLPNgzmqFXBa-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](QJPw39GoZWGLPNgzmqFXBa-hints.md)
+* [Solutions](QJPw39GoZWGLPNgzmqFXBa-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

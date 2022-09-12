@@ -27,8 +27,12 @@ $$
 
 Show why this is true.
 
-[Hints](j8xxXqeFH78pKStzUvwvMD.md)
-[Solutions](j8xxXqeFH78pKStzUvwvMD.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](j8xxXqeFH78pKStzUvwvMD.md)
+* [Solutions](j8xxXqeFH78pKStzUvwvMD.md)
 
 --------------------------------------------------------------------------------------------
 

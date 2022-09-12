@@ -22,8 +22,12 @@ __Bonus__
    $f(x) = x$ catches up to $\log^n(x)$. Use a graphing calculator (or equivalent) to
    get a sense of how fast the crossover point grows with $n$.
 
-[Hints](gR7fnpEVreJT2yNUuZ4GSV-hints.md)
-[Solutions](gR7fnpEVreJT2yNUuZ4GSV-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](gR7fnpEVreJT2yNUuZ4GSV-hints.md)
+* [Solutions](gR7fnpEVreJT2yNUuZ4GSV-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

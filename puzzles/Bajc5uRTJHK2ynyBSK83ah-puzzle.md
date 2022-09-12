@@ -57,7 +57,12 @@ works.
 
 __Bonus__: Does this formula work when squaring numbers with more than two digits?
 
-[Hints](Bajc5uRTJHK2ynyBSK83ah-hints.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](Bajc5uRTJHK2ynyBSK83ah-hints.md)
+* [Solutions](Bajc5uRTJHK2ynyBSK83ah-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

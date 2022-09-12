@@ -52,7 +52,12 @@ $$
   \cos \frac{\pi}{n} + \cos \frac{2 \pi}{n} + \ldots + \cos \frac{(n - 1) \pi}{n}
 $$
 
-[Hints](EvHnJABhzHU5aG3xn3cL5p-hints.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](EvHnJABhzHU5aG3xn3cL5p-hints.md)
+* [Solutions](EvHnJABhzHU5aG3xn3cL5p-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

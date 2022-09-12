@@ -22,7 +22,12 @@ calculate the following quantities:
 
 * $x^5 + \frac{1}{x^5}$
 
-[Hints](DXxfq83R52UnNqWHytvEqA-hints.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](DXxfq83R52UnNqWHytvEqA-hints.md)
+* [Solutions](DXxfq83R52UnNqWHytvEqA-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

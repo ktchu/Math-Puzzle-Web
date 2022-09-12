@@ -69,7 +69,12 @@ C. If $m$, $n$, $p$, and $q$ are positive integers, find expressions involving a
      + \cos \frac{(m + pq)  \pi}{n}
    $$
 
-[Hints](RQZXTKug9ZnB7dnetSGsNu-hints.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](RQZXTKug9ZnB7dnetSGsNu-hints.md)
+* [Solutions](RQZXTKug9ZnB7dnetSGsNu-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

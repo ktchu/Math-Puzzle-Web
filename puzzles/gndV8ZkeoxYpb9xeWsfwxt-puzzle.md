@@ -47,8 +47,12 @@ __Bonus__
 3. If we drop a ball at rest from a height $H$, what is its velocity $v$ as it hits the
    ground?
 
-[Hints](gndV8ZkeoxYpb9xeWsfwxt-hints.md)
-[Solutions](gndV8ZkeoxYpb9xeWsfwxt-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](gndV8ZkeoxYpb9xeWsfwxt-hints.md)
+* [Solutions](gndV8ZkeoxYpb9xeWsfwxt-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

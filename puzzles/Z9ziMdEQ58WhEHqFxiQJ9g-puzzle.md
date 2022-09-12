@@ -25,8 +25,12 @@ $$
 
 Why is this true?
 
-[Hints](Z9ziMdEQ58WhEHqFxiQJ9g-hints.md)
-[Solutions](Z9ziMdEQ58WhEHqFxiQJ9g-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](Z9ziMdEQ58WhEHqFxiQJ9g-hints.md)
+* [Solutions](Z9ziMdEQ58WhEHqFxiQJ9g-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

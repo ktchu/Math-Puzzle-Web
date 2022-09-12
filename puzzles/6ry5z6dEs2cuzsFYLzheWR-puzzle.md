@@ -56,8 +56,12 @@ angle.
 
    Find the largest value of $x$ that the inequality is true for.
 
-[Hints](6ry5z6dEs2cuzsFYLzheWR-hints.md)
-[Solutions](6ry5z6dEs2cuzsFYLzheWR-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](6ry5z6dEs2cuzsFYLzheWR-hints.md)
+* [Solutions](6ry5z6dEs2cuzsFYLzheWR-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

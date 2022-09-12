@@ -26,5 +26,12 @@ computing $(x+1)^5$.
 
 --------------------------------------------------------------------------------------------
 
+## Resources
+
+* [Hints](-FzJMxj2zy6WWDyaVcGmSechints.md)
+* [Solutions](FzJMxj2zy6WWDyaVcGmSec-solutions.md)
+
+--------------------------------------------------------------------------------------------
+
 * _Puzzle ID_: FzJMxj2zy6WWDyaVcGmSec
 * _Puzzle Version_: 2022-07-19

@@ -71,7 +71,12 @@ which collapses to $1 - 1/100 = 99/100$.
    S = a + a r + a r^2 + \cdots + a r^n.
    $$
 
-[Solutions](F52CBWrGLUePhyjEgvgYbd-solutions.md)
+--------------------------------------------------------------------------------------------
+
+## Resources
+
+* [Hints](F52CBWrGLUePhyjEgvgYbd-hints.md)
+* [Solutions](F52CBWrGLUePhyjEgvgYbd-solutions.md)
 
 --------------------------------------------------------------------------------------------
 

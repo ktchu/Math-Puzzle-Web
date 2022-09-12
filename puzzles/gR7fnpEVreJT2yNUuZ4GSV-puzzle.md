@@ -1,7 +1,7 @@
 ---
 id: gR7fnpEVreJT2yNUuZ4GSV
 title: Logarithms Never Win the Race to Infinity
-version: 2022-09-04
+version: 2022-09-11T17:18:45
 tags: calculus
 ---
 
@@ -15,7 +15,8 @@ so.
 
 __Bonus__
 
-1. Show that by $x = 1$, $f(x) = x$ winning the race and $\log^2(x)$ never catches up.
+1. For a race between $\log^2(x)$ and $f(x) = x$, show that by $x = 1$, $f(x)$ is winning
+   the race and $\log^2(x)$ never catches up.
 
 2. The larger $n$ is, the longer it takes for $f(x) = x$ to catch up to the large lead
    that $\log^n(x)$ gets earlier in the race. Let $x^*$ be the the crossover point where
@@ -32,4 +33,4 @@ __Bonus__
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: gR7fnpEVreJT2yNUuZ4GSV
-* _Puzzle Version_: 2022-09-04
+* _Puzzle Version_: 2022-09-11T17:18:45

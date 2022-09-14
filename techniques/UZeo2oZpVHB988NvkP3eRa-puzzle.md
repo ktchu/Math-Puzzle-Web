@@ -118,7 +118,7 @@ These two matrices are compatible for calculating $A \times B$ because the numbe
 columns of $A$ and the number of rows of $B$ are the same (both equal to 2). If we call
 the product $C$, we can use the procedure described above to calculate $C_{1,2}$.
 
-* The first row of $A$ is $[1, 2]$ and the second columns of $B$ is $[8, 10]$.
+* The first row of $A$ is $[1, 2]$ and the second column of $B$ is $[8, 10]$.
 
 * Using these two lists of numbers, we get the following list of pairs:
 

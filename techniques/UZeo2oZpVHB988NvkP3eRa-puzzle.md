@@ -7,14 +7,14 @@ tags: technique, linear-algebra, matrices
 
 --------------------------------------------------------------------------------------------
 
-## Using Matrices to Translate, Rotate, and Reflect
+# Using Matrices to Translate, Rotate, and Reflect
 
 One situation where matrices are useful is computing where points in a plane move to under
 simple transformations - rotations, reflections, translations, and combinations of these.
 We can think of matrices as a way to _organize_ the calculations needed to move points
 arou
 
-### A Quick Introduction to Matrices
+## A Quick Introduction to Matrices
 
 A _matrix_ is a set of number organized as a rectangular block. For example:
 
@@ -32,13 +32,13 @@ rows and the second number is the number of vertical columns.
 We use subscripts to indicate the row and column of a particular element in the matrix. For
 example, $M_{2, 1} = 3$ in the matrix $M$ above.
 
-#### Adding Matrices
+### Adding Matrices
 
 Two matrices can be added … but only if they are compatible by having the same number of
 rows and columns. The sum of two matrices $A$ and $B$ is a matrix of the same size where
 each element is the sum of the corresponding elements in $A$ and $B$.
 
-##### Example
+#### Example
 
 Suppose we have two matrices
 
@@ -71,11 +71,11 @@ A + B = \left[\begin{array}{cc}
         \end{array}\right].
 $$
 
-##### Exercises
+#### Exercises
 
 1. Verify that the sum of $A$ and $B$ is the matrix above.
 
-#### Multiplying Matrices
+### Multiplying Matrices
 
 Two matrices $A$ and $B$ can be multiplied … but only if they are compatible by having the
 number of columns of $A$ equal to the number of rows of $B$. To calculate element in the
@@ -93,7 +93,7 @@ $A$ and $B$, we use the following procedure:
 Organizing the results repeating this procedure for all of the possible combinations of
 rows of $A$ and columns of $B$ into a new block gives us the product of $A$ and $B$.
 
-##### Example
+#### Example
 
 Suppose we have two matrices
 
@@ -145,13 +145,13 @@ A \times B = \left[\begin{array}{cc}
             \end{array}\right].
 $$
 
-##### Exercises
+#### Exercises
 
 2. Verify that the product of $A$ and $B$ is the matrix above.
 
 3. Are matrices $A$ and $B$ compatible if we want to compute the product $BA$?
 
-#### Using Matrices to Represent Points in the Plane
+### Using Matrices to Represent Points in the Plane
 
 A useful way to represent a _point_ in the plane is as a $2 \times 1$ matrix. For example,
 the point $p = (2, 1)$ in the $xy$-plane can be represented as
@@ -163,9 +163,9 @@ p = \left[\begin{array}{cc}
     \end{array}\right].
 $$
 
-### Using Matrices to Move Points Around the Plane
+## Using Matrices to Move Points Around the Plane
 
-#### Translations
+### Translations
 
 To calculate the position of any point $p = (x, y)$ in the plane after translating by an
 amount $\Delta x$ in the $x$-direction and an mount $\Delta y$ in the $y$-direction, add
@@ -187,7 +187,7 @@ $$
 \end{array}\right]
 $$
 
-##### Example
+#### Example
 
 If we want to shift all of the points in the plane by 2 units in the $x$-direction and
 3 units in the $y$-direction, then
@@ -199,7 +199,7 @@ T = \left[\begin{array}{c}
     \end{array}\right].
 $$
 
-#### Rotations
+### Rotations
 
 To calculate the position of any point $p = (x, y)$ in the plane after rotating by an angle
 $\theta$ about the origin $(0, 0)$, we multiply the matrix representation of the point $p$
@@ -226,7 +226,7 @@ R \times p = \left[\begin{array}{cc}
              \end{array}\right].
 $$
 
-##### Example
+#### Example
 
 If we want to rotate all of the points in the plane by $90^\circ$, then the rotation
 matrix $R$ is
@@ -240,7 +240,7 @@ $$
 
 because $\cos 90^\circ = 0$ and $\sin 90^\circ = 1$.
 
-##### Exercises
+#### Exercises
 
 4. Verify that the formula for $R \times p$.
 
@@ -258,7 +258,7 @@ because $\cos 90^\circ = 0$ and $\sin 90^\circ = 1$.
    = \frac{\sqrt{3}}{2}
    $$
 
-#### Reflections
+### Reflections
 
 To calculate the position of any point $p = (x, y)$ in the plane after reflecting across
 a line passing through the origin $(0, 0)$ that makes an angle $\theta$ with the positive
@@ -286,7 +286,7 @@ S \times p = \left[\begin{array}{cc}
              \end{array}\right].
 $$
 
-#### Example
+### Example
 
 If we want to reflection all of the points in the plane across the line that makes a
 $90^\circ$ angle with the positive $x$-axis, then the reflection matrix $S$ is
@@ -300,7 +300,7 @@ $$
 
 because $\cos 180^\circ = -1$ and $\sin 180^\circ = 0$.
 
-### Exercises
+## Exercises
 
 6. Verify that the formula for $S \times p$.
 
@@ -319,7 +319,7 @@ because $\cos 180^\circ = -1$ and $\sin 180^\circ = 0$.
    = \frac{\sqrt{3}}{2}
    $$
 
-### Challenge Problems
+## Challenge Problems
 
 8. Find a matrix formula for the location of a point $p$ after the following multi-step
    transformation of the plane.
@@ -333,7 +333,7 @@ because $\cos 180^\circ = -1$ and $\sin 180^\circ = 0$.
 
 --------------------------------------------------------------------------------------------
 
-## Resources
+# Resources
 
 * [Hints](UZeo2oZpVHB988NvkP3eRa-hints.md)
 * [Solutions](UZeo2oZpVHB988NvkP3eRa-solutions.md)

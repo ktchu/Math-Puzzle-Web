@@ -7,7 +7,7 @@ tags: solutions
 
 --------------------------------------------------------------------------------------------
 
-## Telescoping Series [Solutions]
+# Telescoping Series [Solutions]
 
 1. A geometric series can be calculated by converting the sum into a telescoping series.
 Suppose we want to compute the geometric sum:

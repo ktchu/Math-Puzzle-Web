@@ -7,7 +7,7 @@ tags: hints
 
 --------------------------------------------------------------------------------------------
 
-## Using Matrices to Translate, Rotate, and Reflect [Hints]
+# Using Matrices to Translate, Rotate, and Reflect [Hints]
 
 --------------------------------------------------------------------------------------------
 

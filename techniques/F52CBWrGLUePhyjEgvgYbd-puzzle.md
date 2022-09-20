@@ -7,7 +7,7 @@ tags: technique, telescoping-series
 
 --------------------------------------------------------------------------------------------
 
-## Telescoping Series
+# Telescoping Series
 
 _Telescoping series_ are sums with terms (in parenthesis) that look like the following:
 
@@ -30,7 +30,7 @@ $$
 It usually takes some effort to recognize that a sum is a telescoping series, but once you
 do, calculating the sum becomes trivial!
 
-### Example
+## Example
 
 Suppose we want to calculate the value of the sum
 
@@ -63,7 +63,7 @@ $$
 
 which collapses to $1 - 1/100 = 99/100$.
 
-### Exercises
+## Exercises
 
 1. Use the idea of a telescoping series to derive the formula for a geometric series:
 
@@ -73,7 +73,7 @@ which collapses to $1 - 1/100 = 99/100$.
 
 --------------------------------------------------------------------------------------------
 
-## Resources
+# Resources
 
 * [Hints](F52CBWrGLUePhyjEgvgYbd-hints.md)
 * [Solutions](F52CBWrGLUePhyjEgvgYbd-solutions.md)

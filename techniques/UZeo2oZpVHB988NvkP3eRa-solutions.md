@@ -7,7 +7,7 @@ tags: solutions
 
 --------------------------------------------------------------------------------------------
 
-## Using Matrices to Translate, Rotate, and Reflect [Solutions]
+# Using Matrices to Translate, Rotate, and Reflect [Solutions]
 
 --------------------------------------------------------------------------------------------
 

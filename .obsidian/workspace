@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a97f0e1385bef5",
+        "id": "740a805a2da3a7c5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "techniques/UZeo2oZpVHB988NvkP3eRa-puzzle.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 261.5
   },
   "right": {
     "id": "1f61ce92f8aae068",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "techniques/UZeo2oZpVHB988NvkP3eRa-puzzle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "techniques/UZeo2oZpVHB988NvkP3eRa-puzzle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "techniques/UZeo2oZpVHB988NvkP3eRa-puzzle.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0a97f0e1385bef5",
+  "active": "b3c7769b8a01e998",
   "lastOpenFiles": [
-    "puzzles/Bajc5uRTJHK2ynyBSK83ah.md",
-    "puzzles/Bajc5uRTJHK2ynyBSK83ah-hints.md",
-    "puzzles/2022-08-13.md",
-    "puzzles/2022-08-13-Hints.md",
-    "puzzles/WrZaptZGP5G4boRw2cWy6n.md",
-    "puzzles/WrZaptZGP5G4boRw2cWy6n-hints.md",
-    "puzzles/2022-07-20.md",
-    "puzzles/DXxfq83R52UnNqWHytvEqA.md",
-    "puzzles/FzJMxj2zy6WWDyaVcGmSec.md",
-    "puzzles/DXxfq83R52UnNqWHytvEqA-hints.md"
+    "techniques/UZeo2oZpVHB988NvkP3eRa-hints.md",
+    "techniques/F52CBWrGLUePhyjEgvgYbd-solutions.md",
+    "techniques/F52CBWrGLUePhyjEgvgYbd-puzzle.md",
+    "puzzles/RQZXTKug9ZnB7dnetSGsNu-hints.md",
+    "puzzles/2yjT4W8wxBXum9RttUipBB-puzzle.md",
+    "puzzles/2yjT4W8wxBXum9RttUipBB-hints.md",
+    "techniques/UZeo2oZpVHB988NvkP3eRa-puzzle.md",
+    "puzzles/QJPw39GoZWGLPNgzmqFXBa-puzzle.md",
+    "puzzles/bbboYHCZmv82vaSWAdBm7t-puzzle.md",
+    "puzzles/Bajc5uRTJHK2ynyBSK83ah-hints.md"
   ]
 }

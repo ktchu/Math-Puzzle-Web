@@ -1,7 +1,7 @@
 ---
 id: oRBnohfiqJq7zaWHjQBcmL
 title: Collapsing Sums
-version: 2022-08-30
+version: 2022-11-14T21:15:49
 tags: telescoping-series
 ---
 
@@ -23,7 +23,7 @@ $$
 
 3.
 $$
-1 \times 1! + 2 \times 2! + 3 \times 3! + \cdots 99 \times 99!
+1 \times 1! + 2 \times 2! + 3 \times 3! + \cdots + 99 \times 99!
 $$
 
    Recall that $n!$ (read as $n$ _factorial_) is equal to
@@ -54,4 +54,4 @@ $$
 --------------------------------------------------------------------------------------------
 
 * _Puzzle ID_: oRBnohfiqJq7zaWHjQBcmL
-* _Puzzle Version_: 2022-08-30
+* _Puzzle Version_: 2022-11-14T21:15:49
